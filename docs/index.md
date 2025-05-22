@@ -32,4 +32,4 @@
 ぴよ
 ほげ[ふが](https://github.com/)ぴよ
 [ほげ](./fuga/hoge.md)
-![ほげ](./hoge.png)
+![ほげ](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5sinyJVj_DFXtbp7NAK53nUhrVMmrCEGqJ0daYDiZThvRwuMjl16kAXHVfcELdkSIKzwngw8D4rrA0PHtMpNHwia367XypLtT9GS6t5epchvkBEMT_D0-WuPa7q-2shFWGemoxmnmHBnr/s800/katana_shirasaya.png)
